@@ -1,4 +1,4 @@
-# HU-2: validaciones, persistencia de historial y CLI simple
+# HU-2-qa: validaciones, persistencia de historial y CLI simple
 from pathlib import Path
 
 history = []
