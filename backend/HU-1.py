@@ -1,5 +1,4 @@
-# HU-1-qa: validaciones, persistencia de historial y CLI simple (corregido)
-from __future__ import annotations
+
 from pathlib import Path
 from typing import List, Optional
 
